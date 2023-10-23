@@ -89,7 +89,7 @@
 header{
     min-height: 100vh;
     padding-top: 7rem;
-    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("../images/desert\ people.jpg") center/cover no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("desert people.jpg") center/cover no-repeat;
     flex-direction: column;
     color: #fff;
     text-align: center;
@@ -231,7 +231,7 @@ header{
 
 /* services */
 #services{
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/rajpeople.jpg) center/cover no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("rajpeople.jpg") center/cover no-repeat;
 }
 #services *{
     color:#fff;
